@@ -23,6 +23,8 @@ public class MainActivity extends Activity {
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
 	}
+	
+	// Test
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {

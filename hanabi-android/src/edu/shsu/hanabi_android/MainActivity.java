@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 		}
 	}
 	
-	// Test mine
+	// Test mine mine
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
